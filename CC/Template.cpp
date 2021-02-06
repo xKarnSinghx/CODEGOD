@@ -21,6 +21,8 @@ using namespace std;
 #define foi(n) for(ll i=0;i<n;i++)
 #define foj(n) for(ll j=0;j<n;j++)
 #define fok(n) for(ll k=0;k<n;k++)
+#define forr(i,a,b) for(ll i=a;i<b;i++)
+#define forrr(i,b,a) for(ll i=b;i>=a;i--)
 #define graph          vector<vector<int>>
 #define sz(v) v.size()
 typedef pair<int, int> pii;
